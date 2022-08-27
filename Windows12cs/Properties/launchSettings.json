@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Windows12cs": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    },
+    "NON ESEGUIRE": {
+      "commandName": "Project"
+    }
+  }
+}
